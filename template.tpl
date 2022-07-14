@@ -9,16 +9,16 @@ Google may provide), as modified from time to time.
 ___INFO___
 
 {
-  "displayName": "Cookie Information Consent State",
-  "categories": ["TAG_MANAGEMENT", "PERSONALIZATION"],
-  "description": "Use with the Cookie Information CMP to signal the individual website user\u0027s consent state to tags that are setting cookies.",
   "type": "MACRO",
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
+  "displayName": "Cookie Information Consent State",
+  "description": "Use with the Cookie Information CMP to signal the individual website user\u0027s consent state to tags that are setting cookies.",
   "containerContexts": [
     "WEB"
-  ]
+  ],
+  "categories": ["TAG_MANAGEMENT", "PERSONALIZATION"]
 }
 
 
