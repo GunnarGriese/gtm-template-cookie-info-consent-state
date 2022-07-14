@@ -1,5 +1,5 @@
 homepage: "https://www.linkedin.com/in/gunnar-griese/"
 documentation: "https://github.com/GunnarGriese/gtm-template-cookie-info-consent-state"
 versions:
-  - sha: 0ec54595a965b172d7b3ab83a1c84abde796131a
+  - sha: b7c4a84dfaaa11e89f3a6066124963a159a3ec4f
     changeNotes: Initial release.
