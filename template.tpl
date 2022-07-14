@@ -10,7 +10,7 @@ ___INFO___
 
 {
   "displayName": "Cookie Information Consent State",
-  "categories": "categories": ["TAG_MANAGEMENT", "PERSONALIZATION"],
+  "categories": ["TAG_MANAGEMENT", "PERSONALIZATION"],
   "description": "Use with the Cookie Information CMP to signal the individual website user\u0027s consent state to tags that are setting cookies.",
   "type": "MACRO",
   "id": "cvt_temp_public_id",
